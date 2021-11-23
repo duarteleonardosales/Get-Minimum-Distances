@@ -1,4 +1,4 @@
-# Minimum-Routes
+# GMD - Get Minimum Distances
 
 O programa serve para que o avaliador de imóveis automatize a busca pelas distâncias a pontos valorizadores. Tais distâncias costumam ser variáveis independentes bastante relevantes em modelos de regressão linear, pois conseguem captar a influência de algum ponto valorizador (praias, praças, shopping, etc.). Realizar tal busca manualmente pode ser um procedimento demasiadamente demorado dependendo da quantidade de dados da amostra.
 
